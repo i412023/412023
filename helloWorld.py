@@ -4,4 +4,4 @@ print(name)
 
 print("")
 
-print(f"你好，{name}")
+print(f"嗨 {name} 你好")
